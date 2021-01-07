@@ -1,8 +1,12 @@
 header {
-    text-align: center;
     height: 100px;
+    text-align: center;
 }
 
 #title {
-    font-size: 50px;
+    font-size: 60px;
+}
+
+.socialLinks {
+    float: right;
 }
